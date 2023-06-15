@@ -18,7 +18,7 @@ struct Shapes: View {
                 .frame(width: 200.0, height: /*@START_MENU_TOKEN@*/100.0/*@END_MENU_TOKEN@*/)
             Capsule()
                 .fill(Color.blue)
-                .frame(width: 200.0, height: 80.0)
+                .frame(width: 200.0, height: 100.0)
             Ellipse()
                 .fill(Color.blue)
                 .frame(width: 200.0, height: /*@START_MENU_TOKEN@*/100.0/*@END_MENU_TOKEN@*/)
